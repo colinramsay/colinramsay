@@ -1,1 +1,1 @@
-🚀 Directing [software development in Cornwall](https://gotripod.com) with Go Tripod
+🚀 Doing a bit of [software development in Cornwall](https://colinramsay.co.uk).
